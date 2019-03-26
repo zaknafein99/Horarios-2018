@@ -1,0 +1,10 @@
+| Hora          |    | Lunes | Martes | Miercoles | Jueves | Viernes |
+|---------------+----+-------+--------+-----------+--------+---------|
+| 16:25 - 17:05 | 2a | 1° 2  | 1° 2   | POITE     | 2° 2   | 1° 2    |
+| 17:10 - 17:50 | 3a | POITE | 2° 1   | POITE     | 2° 1   | 1° 2    |
+| 17:55 - 18:40 | 4a | POITE | POITE  | POITE     | 1° 1   | POITE   |
+| 18:50 - 19:30 | 5a | POITE | 2° 2   | POITE     | 1° 1   | POITE   |
+| 19:30 - 20:10 | 6a | POITE | POITE  | 2° 1      | POITE  | POITE   |
+| 20:15 - 20:50 | 7a | POITE | POITE  | 1° 1      | POITE  | POITE   |
+| 20:50 - 21:35 | 8a | POITE | 2° 2   | 1° 1      | POITE  | POITE   |
+
